@@ -24,7 +24,7 @@ The Nintendo Switch version of the game has a base title, which is essentially j
 | 5.00                  	| 07-12-18       	 |		N/A                    |
 | 5.10                   	| 07-24-18       	 |		N/A                    |
 | 5.20                   	| 08-07-18       	 |		N/A                    |
-| 5.30                   	| 08-23-18       	 |		N/A                    |
+| 5.30                   	| 08-23-18       	 |		https://drive.google.com/file/d/1k0rE5gE-BIUginUpUuEh89CFzsYNF2XR/view?usp=sharing                   |
 | 5.40                   	| 09-06-18       	 |		N/A                    |
 
 # Season 6
