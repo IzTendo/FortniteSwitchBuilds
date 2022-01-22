@@ -52,7 +52,7 @@ The Nintendo Switch version of the game has a base title, which is essentially j
 | 8.20                  	| 03-27-19       	 |		N/A                    |
 | 8.30                  	| 04-10-19       	 |		N/A                    |
 | 8.40                  	| 04-17-19       	 |		N/A                    |
-| 8.50                  	| 04-25-19       	 |		N/A                    |
+| 8.50                  	| 04-25-19       	 |		https://drive.google.com/file/d/1_ndyS5EK7YzRG4sFxMgW98HUO6IrQNRG                    |
 
 # Season 9
 | Build                         | Date           	 |		    Link             |
@@ -69,5 +69,5 @@ The Nintendo Switch version of the game has a base title, which is essentially j
 | 10.00                   	| 08-01-19       	 |		N/A                    |
 | 10.10                   	| 08-14-19       	 |		N/A                    |
 | 10.20                   	| 08-27-19       	 |		N/A                    |
-| 10.30                   	| 09-11-19       	 |		N/A                    |
+| 10.30                   	| 09-11-19       	 |		https://drive.google.com/file/d/1WD6cyN81i1pPn_x_TxY_iihwPDO0Q-LA                    |
 | 10.40                   	| 09-25-19       	 |		N/A                    |
