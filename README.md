@@ -33,7 +33,7 @@ The Nintendo Switch version of the game has a base title, which is essentially j
 | 6.00                  	| 09-27-18       	 |		N/A                    |
 | 6.10                   	| 10-16-18       	 |		N/A                    |
 | 6.20                   	| 10-23-18       	 |		N/A                    |
-| 6.30                   	| 11-14-18       	 |		https://drive.google.com/file/d/1k3kRFnPoPY2EPx_Vg0vR6cUWDQTsEkvb/view?usp=sharing                   |
+| 6.30                   	| 11-14-18       	 |		https://drive.google.com/file/d/1PjE0zwdJcBKImRb1fdqgTkZICMxVJC8y/view?usp=sharing                   |
 
 # Season 7
 | Build                         | Date           	 |		    Link             |
