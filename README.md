@@ -17,7 +17,7 @@ The Nintendo Switch version of the game has a base title, which is essentially j
 | ----------------------------- | ---------------------- | ------------------------------ |
 | 4.4                   	| 06-12-18       	 |		https://drive.google.com/file/d/1EACOp2rV2eEtPJWiUUP33QHCY8Az3GXY                    |
 | 4.4.2                  	| 06-12-18       	 |		https://drive.google.com/file/d/1S-GAToITnHoqIumKF05nn13og2wbR33k                    |
-| 4.5                   	| 06-27-18       	 |		Soon™                    |
+| 4.5                   	| 06-27-18       	 |		https://drive.google.com/file/d/1asfdwgv4hzgfAda89Bnp9lH3FzUBid2y                    |
 
 # Season 5
 | Build                         | Date           	 |		    Link             |
