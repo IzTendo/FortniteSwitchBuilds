@@ -112,3 +112,14 @@ The Nintendo Switch version of the game has a base title, which is essentially j
 | 14.40                   	| 10-21-20       	 |		N/A                    |
 | 14.50                   	| 11-03-20       	 |		N/A                    |
 | 14.60                   	| 11-18-20       	 |		N/A                    |
+
+# Season 15 (Chapter 2 Season 5)
+| Build                         | Date           	 |		    Link             |
+| ----------------------------- | ---------------------- | ------------------------------ |
+| 15.00                   	| 12-02-20       	 |		N/A                    |
+| 15.10                   	| 12-15-20       	 |		N/A                    |
+| 15.20                   	| 01-13-21       	 |		N/A                    |
+| 15.21                   	| 01-20-21       	 |		N/A                    |
+| 15.30                   	| 02-02-21       	 |		https://drive.google.com/file/d/1rWF4segyJCRcG707QesK8VzoWzFMyG48/view                   |
+| 15.40                   	| 02-16-21       	 |		N/A                    |
+| 15.50                   	| 03-02-21       	 |		N/A                    |
