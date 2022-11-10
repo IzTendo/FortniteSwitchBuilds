@@ -34,7 +34,8 @@ The Nintendo Switch version of the game has a base title, which is essentially j
 | 6.00                  	| 09-27-18       	 |		N/A                    |
 | 6.10                   	| 10-16-18       	 |		N/A                    |
 | 6.20                   	| 10-23-18       	 |		N/A                    |
-| 6.30                   	| 11-14-18       	 |		https://drive.google.com/file/d/1PjE0zwdJcBKImRb1fdqgTkZICMxVJC8y/view?usp=sharing                   |
+| 6.30                   	| 11-14-18       	 |		N/A                   |
+| 6.31                   	| 11-28-18       	 |		https://drive.google.com/file/d/1-zT9FrQ7ObMOIdbLXYADdxuN-QwA58FC/view?usp=drivesdk                  |
 
 # Season 7
 | Build                         | Date           	 |		    Link             |
@@ -61,7 +62,7 @@ The Nintendo Switch version of the game has a base title, which is essentially j
 | 9.00                   	| 05-09-19       	 |		N/A                    |
 | 9.10                  	| 05-29-19       	 |		N/A                    |
 | 9.20                  	| 06-05-19       	 |		N/A                    |
-| 9.30                  	| 06-18-19       	 |		https://drive.google.com/file/d/1NhgDWbT6B5HEqDHLX9ZiqeLKevncOFw3                    |
+| 9.30                  	| 06-18-19       	 |		N/A                    |
 | 9.40                   	| 07-17-19       	 |		N/A                    |
 
 # Season 10
@@ -70,7 +71,7 @@ The Nintendo Switch version of the game has a base title, which is essentially j
 | 10.00                   	| 08-01-19       	 |		N/A                    |
 | 10.10                   	| 08-14-19       	 |		N/A                    |
 | 10.20                   	| 08-27-19       	 |		N/A                    |
-| 10.30                   	| 09-11-19       	 |		https://drive.google.com/file/d/1WD6cyN81i1pPn_x_TxY_iihwPDO0Q-LA                    |
+| 10.30                   	| 09-11-19       	 |		N/A                    |
 | 10.40                   	| 09-25-19       	 |		N/A                    |
 
 # Season 11 (Chapter 2 Season 1)
@@ -120,6 +121,6 @@ The Nintendo Switch version of the game has a base title, which is essentially j
 | 15.10                   	| 12-15-20       	 |		N/A                    |
 | 15.20                   	| 01-13-21       	 |		N/A                    |
 | 15.21                   	| 01-20-21       	 |		N/A                    |
-| 15.30                   	| 02-02-21       	 |		https://drive.google.com/file/d/1rWF4segyJCRcG707QesK8VzoWzFMyG48/view                   |
+| 15.30                   	| 02-02-21       	 |		N/A                   |
 | 15.40                   	| 02-16-21       	 |		N/A                    |
 | 15.50                   	| 03-02-21       	 |		N/A                    |
