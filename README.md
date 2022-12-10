@@ -42,7 +42,7 @@ The Nintendo Switch version of the game has a base title, which is essentially j
 | ----------------------------- | ---------------------- | ------------------------------ |
 | 7.00                   	| 07-06-18       	 |		N/A                    |
 | 7.10                   	| 07-18-18       	 |		https://drive.google.com/file/d/1kMZFIozxHMkpmDBHoXzaaf_A7VNFOo-N                   |
-| 7.20                   	| 01-15-19       	 |		N/A                    |
+| 7.20                   	| 01-15-19       	 |		https://drive.google.com/file/d/1wU7_zj8kt3K3NpuThfvvvwQ2fDQWMURk                   |
 | 7.30                   	| 01-29-19       	 |		N/A                    |
 | 7.40                   	| 02-14-19       	 |		N/A                    |
 
