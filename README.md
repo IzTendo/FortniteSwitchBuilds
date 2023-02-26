@@ -63,7 +63,7 @@ The Nintendo Switch version of the game has a base title, which is essentially j
 | 9.00                   	| 05-09-19       	 |		N/A                    |
 | 9.10                  	| 05-29-19       	 |		N/A                    |
 | 9.20                  	| 06-05-19       	 |		N/A                    |
-| 9.30                  	| 06-18-19       	 |		N/A                    |
+| 9.30                  	| 06-18-19       	 |		https://drive.google.com/file/d/19mSLTRtJiCT3fFGRONDYZAFrIVs5nGOW                    |
 | 9.40                   	| 07-17-19       	 |		N/A                    |
 
 # Season 10
