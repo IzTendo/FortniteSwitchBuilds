@@ -55,7 +55,7 @@ The Nintendo Switch version of the game has a base title, which is essentially j
 | 8.30                  	| 04-10-19       	 |		N/A                    |
 | 8.40                  	| 04-17-19       	 |		N/A                    |
 | 8.50                  	| 04-25-19       	 |		https://drive.google.com/file/d/1_ndyS5EK7YzRG4sFxMgW98HUO6IrQNRG                    |
-| 8.51                  	| 04-25-19       	 |		https://drive.google.com/file/d/1w0py6BytxDatYycl6rOj9nKbMCPdIHUW                    |
+| 8.51                  	| 04-25-19       	 |		[https://drive.google.com/file/d/1w0py6BytxDatYycl6rOj9nKbMCPdIHUW  ](https://drive.google.com/file/d/1zJAXsKEnqZ8StdjjqPLAXZE5DZWN1Kff/view)                  |
 
 # Season 9
 | Build                         | Date           	 |		    Link             |
