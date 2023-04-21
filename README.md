@@ -23,7 +23,7 @@ The Nintendo Switch version of the game has a base title, which is essentially j
 | Build                         | Date           	 |		    Link             |
 | ----------------------------- | ---------------------- | ------------------------------ |
 | 5.00                  	| 07-12-18       	 |		N/A                    |
-| 5.10                   	| 07-24-18       	 |		https://drive.google.com/file/d/1h--hhny8pGo8GiYng_59DpcAFSSb0Bp7                    |
+| 5.10.1                   	| 07-24-18       	 |		https://drive.google.com/file/d/1h--hhny8pGo8GiYng_59DpcAFSSb0Bp7                    |
 | 5.20                   	| 08-07-18       	 |		N/A                    |
 | 5.30.2                   	| 08-23-18       	 |		https://drive.google.com/file/d/1NykOzSDAgYgRNYamWiGw8u5c1sAVlmSK                   |
 | 5.40                   	| 09-06-18       	 |		https://drive.google.com/file/d/1wpF6teSagv6441WHi_xdWGURRkUf2Xh7                   |
@@ -41,10 +41,10 @@ The Nintendo Switch version of the game has a base title, which is essentially j
 | Build                         | Date           	 |		    Link             |
 | ----------------------------- | ---------------------- | ------------------------------ |
 | 7.00                   	| 07-06-18       	 |		N/A                    |
-| 7.10                   	| 07-18-18       	 |		N/A                   |
-| 7.20                   	| 01-15-19       	 |		https://drive.google.com/file/d/1wU7_zj8kt3K3NpuThfvvvwQ2fDQWMURk                   |
+| 7.10                   	| 07-18-18       	 |		https://drive.google.com/file/d/1kMZFIozxHMkpmDBHoXzaaf_A7VNFOo-N                   |
+| 7.20.1                   	| 01-15-19       	 |		https://drive.google.com/file/d/1wU7_zj8kt3K3NpuThfvvvwQ2fDQWMURk                   |
 | 7.30                   	| 01-29-19       	 |		N/A                    |
-| 7.40                   	| 02-14-19       	 |		https://drive.google.com/file/d/1kMZFIozxHMkpmDBHoXzaaf_A7VNFOo-N                    |
+| 7.40                   	| 02-14-19       	 |		N/A                    |
 
 # Season 8
 | Build                         | Date           	 |		    Link             |
