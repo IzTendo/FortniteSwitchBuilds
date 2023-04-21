@@ -15,7 +15,7 @@ The Nintendo Switch version of the game has a base title, which is essentially j
 # Season 4
 | Build                         | Date           	 |		    Link             |
 | ----------------------------- | ---------------------- | ------------------------------ |
-| 4.4                   	| 06-12-18       	 |		https://drive.google.com/file/d/1EACOp2rV2eEtPJWiUUP33QHCY8Az3GXY                    |
+| 4.4                   	| 06-12-18       	 |		N/A                    |
 | 4.4.2                  	| 06-12-18       	 |		https://drive.google.com/file/d/1S-GAToITnHoqIumKF05nn13og2wbR33k                    |
 | 4.5                   	| 06-27-18       	 |		https://drive.google.com/file/d/1asfdwgv4hzgfAda89Bnp9lH3FzUBid2y                    |
 
@@ -24,25 +24,26 @@ The Nintendo Switch version of the game has a base title, which is essentially j
 | ----------------------------- | ---------------------- | ------------------------------ |
 | 5.00                  	| 07-12-18       	 |		N/A                    |
 | 5.10.1                   	| 07-24-18       	 |		https://drive.google.com/file/d/1h--hhny8pGo8GiYng_59DpcAFSSb0Bp7                    |
+| 5.10.2                   	| 07-30-18       	 |		https://drive.google.com/file/d/1EACOp2rV2eEtPJWiUUP33QHCY8Az3GXY                    |
 | 5.20                   	| 08-07-18       	 |		N/A                    |
 | 5.30.2                   	| 08-23-18       	 |		https://drive.google.com/file/d/1NykOzSDAgYgRNYamWiGw8u5c1sAVlmSK                   |
-| 5.40                   	| 09-06-18       	 |		https://drive.google.com/file/d/1wpF6teSagv6441WHi_xdWGURRkUf2Xh7                   |
-
+| 5.40                   	| 09-04-18       	 |		https://drive.google.com/file/d/1wpF6teSagv6441WHi_xdWGURRkUf2Xh7                   |
+| 5.40.1                   	| 09-06-18       	 |		https://drive.google.com/file/d/1FP0drwKC62H1HmDTnlwOS_Tt-vqdgbIK                   |
 # Season 6
 | Build                         | Date           	 |		    Link             |
 | ----------------------------- | ---------------------- | ------------------------------ |
 | 6.00                  	| 09-27-18       	 |		N/A                    |
 | 6.10                   	| 10-16-18       	 |		N/A                    |
 | 6.20                   	| 10-23-18       	 |		N/A                    |
-| 6.30                   	| 11-14-18       	 |		N/A                   |
-| 6.31                   	| 11-28-18       	 |		https://drive.google.com/file/d/1-zT9FrQ7ObMOIdbLXYADdxuN-QwA58FC/view?usp=drivesdk                  |
+| 6.30                   	| 11-14-18       	 |		https://drive.google.com/file/d/1d5h3zCjb-r1gq3wB_6HRlooXv1Dmdq11                   |
+| 6.31                   	| 11-28-18       	 |		https://drive.google.com/file/d/1ZV3Sq0ksbAUiZ0LqRNN7L8y6WrACezei                   |
 
 # Season 7
 | Build                         | Date           	 |		    Link             |
 | ----------------------------- | ---------------------- | ------------------------------ |
 | 7.00                   	| 07-06-18       	 |		N/A                    |
 | 7.10                   	| 07-18-18       	 |		https://drive.google.com/file/d/1kMZFIozxHMkpmDBHoXzaaf_A7VNFOo-N                   |
-| 7.20.1                   	| 01-15-19       	 |		https://drive.google.com/file/d/1wU7_zj8kt3K3NpuThfvvvwQ2fDQWMURk                   |
+| 7.20.1                   	| 01-15-19       	 |		https://drive.google.com/file/d/1EId62DVm83jfh6QS1zgaEt0pIDa9co5Z                   |
 | 7.30                   	| 01-29-19       	 |		N/A                    |
 | 7.40                   	| 02-14-19       	 |		N/A                    |
 
