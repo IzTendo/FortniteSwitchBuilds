@@ -22,12 +22,12 @@ The Nintendo Switch version of the game has a base title, which is essentially j
 # Season 5
 | Build                         | Date           	 |		    Link             |
 | ----------------------------- | ---------------------- | ------------------------------ |
-| 5.00                  	| 07-12-18       	 |		N/A                    |
-| 5.10.1                   	| 07-24-18       	 |		https://drive.google.com/file/d/1h--hhny8pGo8GiYng_59DpcAFSSb0Bp7                    |
-| 5.10.2                   	| 07-30-18       	 |		https://drive.google.com/file/d/1EACOp2rV2eEtPJWiUUP33QHCY8Az3GXY                    |
-| 5.20                   	| 08-07-18       	 |		N/A                    |
+| 5.00                    	| 07-12-18       	 |		N/A                    |
+| 5.10.1                   	| 07-24-18       	 |		https://drive.google.com/file/d/1h--hhny8pGo8GiYng_59DpcAFSSb0Bp7                   |
+| 5.10.2                   	| 07-30-18       	 |		https://drive.google.com/file/d/1EACOp2rV2eEtPJWiUUP33QHCY8Az3GXY                   |
+| 5.20                     	| 08-07-18       	 |		N/A                    |
 | 5.30.2                   	| 08-23-18       	 |		https://drive.google.com/file/d/1NykOzSDAgYgRNYamWiGw8u5c1sAVlmSK                   |
-| 5.40                   	| 09-04-18       	 |		https://drive.google.com/file/d/1wpF6teSagv6441WHi_xdWGURRkUf2Xh7                   |
+| 5.40                   	  | 09-04-18       	 |		https://drive.google.com/file/d/1wpF6teSagv6441WHi_xdWGURRkUf2Xh7                   |
 | 5.40.1                   	| 09-06-18       	 |		https://drive.google.com/file/d/1FP0drwKC62H1HmDTnlwOS_Tt-vqdgbIK                   |
 # Season 6
 | Build                         | Date           	 |		    Link             |
@@ -43,7 +43,7 @@ The Nintendo Switch version of the game has a base title, which is essentially j
 | ----------------------------- | ---------------------- | ------------------------------ |
 | 7.00                   	| 07-06-18       	 |		N/A                    |
 | 7.10                   	| 07-18-18       	 |		https://drive.google.com/file/d/1kMZFIozxHMkpmDBHoXzaaf_A7VNFOo-N                   |
-| 7.20.1                   	| 01-15-19       	 |		https://drive.google.com/file/d/1EId62DVm83jfh6QS1zgaEt0pIDa9co5Z                   |
+| 7.20.1                 	| 01-15-19       	 |		https://drive.google.com/file/d/1EId62DVm83jfh6QS1zgaEt0pIDa9co5Z                   |
 | 7.30                   	| 01-29-19       	 |		N/A                    |
 | 7.40                   	| 02-14-19       	 |		N/A                    |
 
@@ -57,7 +57,7 @@ The Nintendo Switch version of the game has a base title, which is essentially j
 | 8.30.1                  | 04-11-19       	 |		https://drive.google.com/file/d/1X-Ymdet-jO1Qp2Lvz8aGxEpISB7yCobu                    |
 | 8.40                  	| 04-17-19       	 |		N/A                    |
 | 8.50                  	| 04-25-19       	 |		https://drive.google.com/file/d/1_ndyS5EK7YzRG4sFxMgW98HUO6IrQNRG                    |
-| 8.51                  	| 04-25-19       	 |		[https://drive.google.com/file/d/1w0py6BytxDatYycl6rOj9nKbMCPdIHUW  ](https://drive.google.com/file/d/1zJAXsKEnqZ8StdjjqPLAXZE5DZWN1Kff/view)                  |
+| 8.51                  	| 04-25-19       	 |		https://drive.google.com/file/d/1zJAXsKEnqZ8StdjjqPLAXZE5DZWN1Kff                    |
 
 # Season 9
 | Build                         | Date           	 |		    Link             |
