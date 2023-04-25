@@ -54,6 +54,7 @@ The Nintendo Switch version of the game has a base title, which is essentially j
 | 8.10                   	| 03-12-19       	 |		N/A                    |
 | 8.20                  	| 03-27-19       	 |		N/A                    |
 | 8.30                  	| 04-10-19       	 |		N/A                    |
+| 8.30.1                  | 04-11-19       	 |		https://drive.google.com/file/d/1X-Ymdet-jO1Qp2Lvz8aGxEpISB7yCobu                    |
 | 8.40                  	| 04-17-19       	 |		N/A                    |
 | 8.50                  	| 04-25-19       	 |		https://drive.google.com/file/d/1_ndyS5EK7YzRG4sFxMgW98HUO6IrQNRG                    |
 | 8.51                  	| 04-25-19       	 |		[https://drive.google.com/file/d/1w0py6BytxDatYycl6rOj9nKbMCPdIHUW  ](https://drive.google.com/file/d/1zJAXsKEnqZ8StdjjqPLAXZE5DZWN1Kff/view)                  |
