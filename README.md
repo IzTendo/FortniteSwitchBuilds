@@ -95,7 +95,7 @@ The Nintendo Switch version of the game has a base title, which is essentially a
 | Build                         | Date           	 |		    Link             |
 | ----------------------------- | ---------------------- | ------------------------------ |
 | 12.10                   	| 03-03-20       	 |		[Download](https://drive.google.com/file/d/1UBrmohxbQvwRF3BbSEjXFyKwxZ91FvSq)                    |
-| 12.61                   	| 05-26-20       	 |		TBD                    |
+| 12.61                   	| 05-26-20       	 |		[Download](https://drive.google.com/file/d/1TSxKTr-rY-dTBf5q4sHvAlRhoT2Ux3Y6/)                    |
 
 
 # Season 13 (Chapter 2 Season 3)
