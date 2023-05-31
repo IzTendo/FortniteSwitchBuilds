@@ -62,7 +62,7 @@ The Nintendo Switch version of the game has a base title, which is essentially a
 | ----------------------------- | ---------------------- | ------------------------------ |
 | 8.30.1                  | 04-11-19       	 |		[Download](https://drive.google.com/file/d/1X-Ymdet-jO1Qp2Lvz8aGxEpISB7yCobu)                    |
 | 8.50                  	| 04-25-19       	 |		[Download](https://drive.google.com/file/d/1_ndyS5EK7YzRG4sFxMgW98HUO6IrQNRG)                    |
-| 8.51                  	| 04-25-19       	 |		TBD
+| 8.51                  	| 04-25-19       	 |		[Download](https://drive.google.com/file/d/1org2YfrRHAhg5yk00qs955sf9ZPBws1D)
 
 # Season 9 (Chapter 1 Season 9)
 | Build                         | Date           	 |		    Link             |
