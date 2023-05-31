@@ -127,7 +127,7 @@ The Nintendo Switch version of the game has a base title, which is essentially a
 | Build                         | Date           	 |		    Link             |
 | ----------------------------- | ---------------------- | ------------------------------ |
 | 19.01.1                   	| 01-04-22       	 |		TBD                  |
-| 19.10                   	| 01-18-22       	 |		TBD                  |
+| 19.10                   	| 01-18-22       	 |		[Download](https://drive.google.com/file/d/1HD8j0puPVWQncXyHCFNWJWa8StGo2heE)                  |
 | 19.10.1                   	| 01-25-22       	 |		TBD                  |
 | 19.20                   	| 02-01-22       	 |		TBD                  |
 | 19.30                   	| 02-15-22       	 |		TBD                  |
