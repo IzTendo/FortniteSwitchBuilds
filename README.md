@@ -84,7 +84,7 @@ The Nintendo Switch version of the game has a base title, which is essentially a
 | 10.20.1                   	| 08-29-19       	 |		TBD                    |
 | 10.20.2                   	| 09-04-19       	 |		TBD                    |
 | 10.30                   	| 09-11-19       	 |		[Download](https://drive.google.com/file/d/1D78HJPls37VTusqGcWg0maUgxxMABBHY)                  |
-| 10.31                   	| 09-18-19       	 |		TBD                    |
+| 10.31                   	| 09-18-19       	 |		[Download](https://drive.google.com/file/d/1zcpZwdutl1v0dasrhtZVAGk1OciR_kiI)                    |
 
 # Season 11 (Chapter 2 Season 1)
 | Build                         | Date           	 |		    Link             |
