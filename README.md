@@ -122,6 +122,7 @@ The Nintendo Switch version of the game has a base title, which is essentially a
 | Build                         | Date           	 |		    Link             |
 | ----------------------------- | ---------------------- | ------------------------------ |
 | 18.21                   	| 10-19-21       	 |		TBD                  |
+| 18.30                   	| 10-26-21       	 |		TBD                  |
 
 # Season 19 (Chapter 3 Season 1)
 | Build                         | Date           	 |		    Link             |
