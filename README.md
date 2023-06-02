@@ -105,7 +105,7 @@ The Nintendo Switch version of the game has a base title, which is essentially a
 # Season 14 (Chapter 2 Season 4)
 | Build                         | Date           	 |		    Link             |
 | ----------------------------- | ---------------------- | ------------------------------ |
-| 14.30                   	| 10-13-20       	 |		TBD                    |
+| 14.30                   	| 10-13-20       	 |		[Download](https://drive.google.com/file/d/1XKtuVCO08RAaGSlpBhBZLfaZUNVk0S7i)                    |
 
 # Season 15 (Chapter 2 Season 5)
 | Build                         | Date           	 |		    Link             |
