@@ -69,10 +69,10 @@ The Nintendo Switch version of the game has a base title, which is essentially a
 | ----------------------------- | ---------------------- | ------------------------------ |
 | 9.00                   	| 05-09-19       	 |		TBD                    |
 | 9.10                  	| 05-29-19       	 |		[Download](https://drive.google.com/file/d/1dhLoo7P31CaNXvWXjEHMT6CNwmBqXOT-)                    |
-| 9.20                  	| 06-05-19       	 |		TBD                    |
+| 9.20                  	| 06-05-19       	 |		[Download](https://drive.google.com/file/d/1hUTYysKgGAGPfcFSwzC82qZ61a2qikVF)                    |
 | 9.30                   	| 06-18-19       	 |		TBD                    |
 | 9.30.1                  	| 06-25-19       	 |		[Download](https://drive.google.com/file/d/19mSLTRtJiCT3fFGRONDYZAFrIVs5nGOW)                    |
-| 9.40                   	| 07-17-19       	 |		TBD                    |
+| 9.40                   	| 07-17-19       	 |		[Download](https://drive.google.com/file/d/1tbzPagFOsKgNkR7uoG3uEEgol0auI6_-)                    |
 | 9.41                   	| 07-23-19       	 |		TBD                    |
 
 # Season 10 (Chapter 1 Season X)
