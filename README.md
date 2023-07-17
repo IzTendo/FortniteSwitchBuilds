@@ -43,7 +43,7 @@ The Nintendo Switch version of the game has a base title, which is essentially a
 | 5.10.2                   	| 07-30-18       	 |		[Download](https://drive.google.com/file/d/1EACOp2rV2eEtPJWiUUP33QHCY8Az3GXY)                   |
 | 5.20                   	| 08-07-18       	 |		TBD                   |
 | 5.30.2                   	| 08-23-18       	 |		[Download](https://drive.google.com/file/d/1NykOzSDAgYgRNYamWiGw8u5c1sAVlmSK)                   |
-| 5.40                   	  | 09-04-18       	 |		[Download](https://drive.google.com/file/d/1wpF6teSagv6441WHi_xdWGURRkUf2Xh7)                   |
+| 5.40                   	  | 09-04-18       	 |		[Download](https://drive.google.com/file/d/1WTMq3bh9K2ot3GZdCbJObSSLYFKjCFvG)                   |
 | 5.40.1                   	| 09-06-18       	 |		[Download](https://drive.google.com/file/d/1FP0drwKC62H1HmDTnlwOS_Tt-vqdgbIK)                   |
 # Season 6 (Chapter 1 Season 6)
 | Build                         | Date           	 |		    Link             |
